@@ -45,7 +45,7 @@ const Contact = () => {
                   background: "transparent",
                   border: "0px",
                   height: "40px",
-                  background: "black",
+                  backgroundColor: "black",
                   borderRadius: "40px",
                   paddinLeft: "10px",
                   content: "wrap",

@@ -1,5 +1,4 @@
 import "./App.css";
-// import DarkMode from "./Darkmode";
 import Navigation_menu from "./components/Navigation_menu";
 import HeroSection from "./components/HeroSection";
 import Details from "./components/Details";
@@ -8,8 +7,7 @@ import MyProject from "./components/MyProject";
 import AboutMe from "./components/AboutMe";
 import Contact from "./components/Contact";
 import { Route, Routes } from "react-router";
-import Layout1 from "./components/layout/Layout1";
-import Layout2 from "./components/layout/Layout2";
+import Layout1 from "./layout/Layout1";
 
 function App() {
   return (

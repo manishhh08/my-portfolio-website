@@ -1,6 +1,6 @@
 import React from "react";
-import Footer from "../Footer";
-import Navigation_menu from "../Navigation_menu";
+import Footer from "../components/Footer";
+import Navigation_menu from "../components/Navigation_menu";
 import { Outlet } from "react-router";
 
 const Layout1 = (props) => {
