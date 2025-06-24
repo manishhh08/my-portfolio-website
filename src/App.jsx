@@ -1,11 +1,11 @@
 import "./App.css";
-import { Navigation_menu } from "./components/Navigation_menu";
-import { HeroSection } from "./components/HeroSection";
-import { Details } from "./components/Details";
-import { Skills } from "./components/Skills";
-import { MyProject } from "./components/MyProject";
-import { AboutMe } from "./components/AboutMe";
-import { Contact } from "./components/Contact";
+import Navigation_menu from "./components/Navigation_menu";
+import HeroSection from "./components/HeroSection";
+import Details from "./components/Details";
+import Skills from "./components/Skills";
+import MyProject from "./components/MyProject";
+import AboutMe from "./components/AboutMe";
+import Contact from "./components/Contact";
 import { Route, Routes } from "react-router";
 import Layout1 from "./layout/Layout1";
 
