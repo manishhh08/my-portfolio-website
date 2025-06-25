@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 import MyProject from "./components/MyProject";
 import AboutMe from "./components/AboutMe";
 import Contact from "./components/Contact";
-import { Route, Routes } from "react-router";
+import { Route, Routes } from "react-router-dom";
 import Layout1 from "./layout/Layout1";
 
 function App() {
