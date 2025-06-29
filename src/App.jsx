@@ -21,10 +21,10 @@ function App() {
           {/* outlet method */}
           <Route path="/" element={<Layout1 />}>
             <Route index element={<HeroSection />} />
-            {/* <Route path="/skills" element={<Skills />} />
-            <Route path="/projects" element={<MyProject />} />
-            <Route path="/about" element={<AboutMe />} />
-            <Route path="/contact" element={<Contact />} /> */}
+            <Route path="skills" element={<Skills />} />
+            <Route path="projects" element={<MyProject />} />
+            <Route path="about" element={<AboutMe />} />
+            <Route path="contact" element={<Contact />} />
           </Route>
           {/* props.children method */}
           {/* <Route
